@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/ahmed-ayman/Workspace/projects/weatherforecast/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/ahmed-ayman/.android/build-cache/55bd1491998c3997a35e5c8af6bfa0a13802768a/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/ahmed-ayman/Workspace/projects/weatherforecast/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/ahmed-ayman/.android/build-cache/55bd1491998c3997a35e5c8af6bfa0a13802768a/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/ahmed-ayman/Workspace/projects/weatherforecast/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/ahmed-ayman/.android/build-cache/55bd1491998c3997a35e5c8af6bfa0a13802768a/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/ahmed-ayman/Workspace/projects/weatherforecast/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/ahmed-ayman/.android/build-cache/55bd1491998c3997a35e5c8af6bfa0a13802768a/output/res/layout-v21/notification_action_tombstone.xml"
+    }
+]

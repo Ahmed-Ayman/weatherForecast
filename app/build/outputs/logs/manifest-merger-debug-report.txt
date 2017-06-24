@@ -1,0 +1,95 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/ahmed-ayman/Workspace/projects/weatherforecast/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /home/ahmed-ayman/Workspace/projects/weatherforecast/app/src/main/AndroidManifest.xml:3:5-54
+		INJECTED from /home/ahmed-ayman/Workspace/projects/weatherforecast/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ahmed-ayman/Workspace/projects/weatherforecast/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/ahmed-ayman/Workspace/projects/weatherforecast/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ahmed-ayman/Workspace/projects/weatherforecast/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/ahmed-ayman/Workspace/projects/weatherforecast/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/ahmed-ayman/Workspace/projects/weatherforecast/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ahmed-ayman/Workspace/projects/weatherforecast/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/ahmed-ayman/Workspace/projects/weatherforecast/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /home/ahmed-ayman/Workspace/projects/weatherforecast/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /home/ahmed-ayman/Workspace/projects/weatherforecast/app/src/main/AndroidManifest.xml:7:5-22:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/ahmed-ayman/.android/build-cache/55bd1491998c3997a35e5c8af6bfa0a13802768a/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/ahmed-ayman/.android/build-cache/b2da6b48d16956070016c0c671606b7031864cfe/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/ahmed-ayman/.android/build-cache/01cebd818af53bc35805c1b1ed493c055a7772bd/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/ahmed-ayman/.android/build-cache/877504a55ec813d1094448c0ad27c2e71e363230/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/ahmed-ayman/.android/build-cache/f39595d44767f53f9d6d63845a015d24ba2076ea/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/ahmed-ayman/.android/build-cache/838413ee315c94e8ceeabbc103acd8a2287b1237/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/ahmed-ayman/.android/build-cache/081989ea2dfd35148e429e7b06dd0feb74209313/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/ahmed-ayman/.android/build-cache/54181367ac87ad84af9b6e6ea9c7fea909af8f1c/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/ahmed-ayman/.android/build-cache/3cb2485959cbc9a0e8e95ddcf611d7d4446e3bbf/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/ahmed-ayman/.android/build-cache/2e7538cefd4a64d6fc14ce1b44efe1e324852551/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /home/ahmed-ayman/Workspace/projects/weatherforecast/app/src/main/AndroidManifest.xml:10:9-41
+	android:supportsRtl
+		ADDED from /home/ahmed-ayman/Workspace/projects/weatherforecast/app/src/main/AndroidManifest.xml:12:9-35
+	android:roundIcon
+		ADDED from /home/ahmed-ayman/Workspace/projects/weatherforecast/app/src/main/AndroidManifest.xml:11:9-54
+	android:allowBackup
+		ADDED from /home/ahmed-ayman/Workspace/projects/weatherforecast/app/src/main/AndroidManifest.xml:8:9-35
+	android:icon
+		ADDED from /home/ahmed-ayman/Workspace/projects/weatherforecast/app/src/main/AndroidManifest.xml:9:9-43
+	android:theme
+		ADDED from /home/ahmed-ayman/Workspace/projects/weatherforecast/app/src/main/AndroidManifest.xml:13:9-40
+activity#com.example.ahmed_ayman.weatherforecast.MainActivity
+ADDED from /home/ahmed-ayman/Workspace/projects/weatherforecast/app/src/main/AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from /home/ahmed-ayman/Workspace/projects/weatherforecast/app/src/main/AndroidManifest.xml:14:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/ahmed-ayman/Workspace/projects/weatherforecast/app/src/main/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /home/ahmed-ayman/Workspace/projects/weatherforecast/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /home/ahmed-ayman/Workspace/projects/weatherforecast/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/ahmed-ayman/Workspace/projects/weatherforecast/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /home/ahmed-ayman/Workspace/projects/weatherforecast/app/src/main/AndroidManifest.xml:18:27-74
+activity#com.example.ahmed_ayman.weatherforecast.WeekForecast
+ADDED from /home/ahmed-ayman/Workspace/projects/weatherforecast/app/src/main/AndroidManifest.xml:21:9-59
+	android:name
+		ADDED from /home/ahmed-ayman/Workspace/projects/weatherforecast/app/src/main/AndroidManifest.xml:21:19-47
+uses-sdk
+INJECTED from /home/ahmed-ayman/Workspace/projects/weatherforecast/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/ahmed-ayman/.android/build-cache/55bd1491998c3997a35e5c8af6bfa0a13802768a/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] /home/ahmed-ayman/.android/build-cache/b2da6b48d16956070016c0c671606b7031864cfe/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /home/ahmed-ayman/.android/build-cache/01cebd818af53bc35805c1b1ed493c055a7772bd/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/ahmed-ayman/.android/build-cache/877504a55ec813d1094448c0ad27c2e71e363230/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/ahmed-ayman/.android/build-cache/f39595d44767f53f9d6d63845a015d24ba2076ea/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/ahmed-ayman/.android/build-cache/838413ee315c94e8ceeabbc103acd8a2287b1237/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/ahmed-ayman/.android/build-cache/081989ea2dfd35148e429e7b06dd0feb74209313/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/ahmed-ayman/.android/build-cache/54181367ac87ad84af9b6e6ea9c7fea909af8f1c/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] /home/ahmed-ayman/.android/build-cache/3cb2485959cbc9a0e8e95ddcf611d7d4446e3bbf/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/ahmed-ayman/.android/build-cache/2e7538cefd4a64d6fc14ce1b44efe1e324852551/output/AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/ahmed-ayman/.android/build-cache/55bd1491998c3997a35e5c8af6bfa0a13802768a/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/ahmed-ayman/Workspace/projects/weatherforecast/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ahmed-ayman/Workspace/projects/weatherforecast/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/ahmed-ayman/Workspace/projects/weatherforecast/app/src/main/AndroidManifest.xml
+		INJECTED from /home/ahmed-ayman/Workspace/projects/weatherforecast/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] /home/ahmed-ayman/.android/build-cache/55bd1491998c3997a35e5c8af6bfa0a13802768a/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/ahmed-ayman/.android/build-cache/b2da6b48d16956070016c0c671606b7031864cfe/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/ahmed-ayman/.android/build-cache/01cebd818af53bc35805c1b1ed493c055a7772bd/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/ahmed-ayman/.android/build-cache/877504a55ec813d1094448c0ad27c2e71e363230/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/ahmed-ayman/.android/build-cache/f39595d44767f53f9d6d63845a015d24ba2076ea/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/ahmed-ayman/.android/build-cache/838413ee315c94e8ceeabbc103acd8a2287b1237/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/ahmed-ayman/.android/build-cache/081989ea2dfd35148e429e7b06dd0feb74209313/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/ahmed-ayman/.android/build-cache/54181367ac87ad84af9b6e6ea9c7fea909af8f1c/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/ahmed-ayman/.android/build-cache/3cb2485959cbc9a0e8e95ddcf611d7d4446e3bbf/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/ahmed-ayman/.android/build-cache/55bd1491998c3997a35e5c8af6bfa0a13802768a/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/ahmed-ayman/.android/build-cache/55bd1491998c3997a35e5c8af6bfa0a13802768a/output/AndroidManifest.xml:26:9-47

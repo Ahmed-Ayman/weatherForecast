@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/ahmed-ayman/Workspace/projects/weatherforecast/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher_round.png",
+        "source": "/home/ahmed-ayman/Workspace/projects/weatherforecast/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/ahmed-ayman/Workspace/projects/weatherforecast/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/home/ahmed-ayman/Workspace/projects/weatherforecast/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    }
+]
